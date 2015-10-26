@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP WO1602I
+D Winstar 2x16 Alphanumeric I2C LCD Display
+K Winstar 2x16 Alphanumeric I2C LCD Display
+$ENDCMP
+#
+#End Doc Library
